@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "records": {
+    "chain": {
+      "state": "stated",
+      "label": "Chain",
+      "value": "Solana",
+      "rpc": "https://solana-rpc.publicnode.com",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedAt": "2026-10-10"
+    },
+    "site": {
+      "state": "stated",
+      "label": "Domain",
+      "value": "reelis.xyz",
+      "url": "https://reelis.xyz",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedAt": "2026-10-10"
+    },
+    "market": {
+      "state": "stated",
+      "label": "Market feed",
+      "value": "DexScreener",
+      "boostsUrl": "https://api.dexscreener.com/token-boosts/top/v1",
+      "pairsUrl": "https://api.dexscreener.com/tokens/v1/solana/{addresses}",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedAt": "2026-10-10"
+    },
+    "ca": {
+      "state": "absent",
+      "label": "Contract address",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedAt": "2026-10-10"
+    },
+    "x": {
+      "state": "absent",
+      "label": "X",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedAt": "2026-10-10"
+    },
+    "github": {
+      "state": "absent",
+      "label": "GitHub",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedAt": "2026-10-10"
+    },
+    "buy": {
+      "state": "unconfirmed",
+      "label": "Acquire",
+      "source": "client statement",
+      "scope": "batch-level",
+      "recordedAt": "2026-10-10"
+    }
+  }
+}

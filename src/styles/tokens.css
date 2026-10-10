@@ -1,0 +1,63 @@
+/*
+  The only file in src/ and index.html that may contain colour literals.
+
+  Provenance of every hex below: k-means clustering (k=8 and k=9, fixed seed) over pixels of the
+  supplied brand art, each cluster centre then snapped to the nearest real pixel, whose coordinate
+  is recorded. Nothing here is hand-picked. Reproduce with scripts/analyze-assets.mjs and
+  scripts/palette-bg.mjs.
+
+  Logo (brand/LOGO REELIS PNG...png, 2000x2000, colour type 6, pure-black transparent regions):
+    pink     #f92f6d  pixel (648, 856)
+    magenta  #e92688  pixel (792, 872)
+    orchid   #ce23b0  pixel (976, 912)
+    purple   #b326cf  pixel (1136, 856)
+    violet   #9528ed  pixel (1360, 1064)
+    amber    #fda729  pixel (1280, 1336)
+    white    #fefdfd  pixel (904, 952)
+  Reference slide 1 (reference/REELIS 1.jpg.jpeg, 1600x900):
+    ink      #07010b  pixel (1084, 0)
+    abyss    #020107  pixel (528, 328)
+    indigo   #280561  pixel (352, 60)
+    plum     #420719  pixel (176, 644)
+    rose     #dd1778  pixel (1168, 252)
+    ember    #db7a1c  pixel (1384, 896)
+    haze     #eae8ed  pixel (436, 460)
+*/
+:root {
+  --ink: #07010b;
+  --abyss: #020107;
+  --indigo: #280561;
+  --plum: #420719;
+  --rose: #dd1778;
+  --ember: #db7a1c;
+  --haze: #eae8ed;
+  --white: #fefdfd;
+  --pink: #f92f6d;
+  --magenta: #e92688;
+  --orchid: #ce23b0;
+  --purple: #b326cf;
+  --violet: #9528ed;
+  --amber: #fda729;
+
+  /* derived surfaces: mixes of the sampled colours above, no new literals */
+  --text: var(--haze);
+  --muted: color-mix(in srgb, var(--haze) 62%, transparent);
+  --faint: color-mix(in srgb, var(--haze) 38%, transparent);
+  --line: color-mix(in srgb, var(--haze) 11%, transparent);
+  --line-strong: color-mix(in srgb, var(--haze) 20%, transparent);
+  --bg: var(--ink);
+  --bg-deep: var(--abyss);
+  --elev: color-mix(in srgb, var(--haze) 5%, var(--ink));
+  --elev2: color-mix(in srgb, var(--haze) 8%, var(--ink));
+  --hover: color-mix(in srgb, var(--haze) 11%, var(--ink));
+  --scrim: color-mix(in srgb, var(--abyss) 72%, transparent);
+  --up: var(--amber);
+  --down: var(--pink);
+  --focus: var(--violet);
+
+  --grad-brand: linear-gradient(45deg, var(--amber), var(--pink) 38%, var(--magenta) 58%, var(--violet));
+  --grad-ring: linear-gradient(45deg, var(--amber), var(--ember) 18%, var(--pink) 48%, var(--orchid) 72%, var(--violet));
+  --grad-cta: linear-gradient(90deg, var(--pink), var(--orchid) 55%, var(--violet));
+
+  color-scheme: dark;
+}

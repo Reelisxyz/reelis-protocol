@@ -1,0 +1,21 @@
+{
+  "name": "reelis",
+  "version": "1.0.0",
+  "description": "Reelis, a maker economy on Solana",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "gates": "node scripts/gates.mjs",
+    "preview": "vite preview",
+    "assets": "node scripts/build-assets.mjs"
+  },
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@fontsource/plus-jakarta-sans": "^5.3.0",
+    "puppeteer-core": "^25.13.0",
+    "sharp": "^0.35.5",
+    "vite": "^8.3.4"
+  },
+  "private": true
+}

@@ -1,0 +1,559 @@
+[
+  {
+    "file": "brand/LOGO REELIS JPG.jpg.jpeg",
+    "bytes": 317093,
+    "container": "JPEG",
+    "ihdr": null,
+    "decoded": {
+      "w": 2000,
+      "h": 2000,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4000000
+    ],
+    "pureBlackNonOpaque": 0,
+    "opaqueNearBlack": 3392803,
+    "hasAlphaChannel": false,
+    "palette": [
+      {
+        "cluster": [
+          249,
+          48,
+          109
+        ],
+        "snappedHex": "#f8306e",
+        "atPixel": [
+          648,
+          856
+        ],
+        "members": 1958
+      },
+      {
+        "cluster": [
+          149,
+          40,
+          237
+        ],
+        "snappedHex": "#9428ed",
+        "atPixel": [
+          1344,
+          848
+        ],
+        "members": 1579
+      },
+      {
+        "cluster": [
+          178,
+          38,
+          208
+        ],
+        "snappedHex": "#b226d1",
+        "atPixel": [
+          1144,
+          832
+        ],
+        "members": 1415
+      },
+      {
+        "cluster": [
+          232,
+          39,
+          137
+        ],
+        "snappedHex": "#e82689",
+        "atPixel": [
+          832,
+          1120
+        ],
+        "members": 1341
+      },
+      {
+        "cluster": [
+          204,
+          36,
+          179
+        ],
+        "snappedHex": "#cc25b3",
+        "atPixel": [
+          976,
+          840
+        ],
+        "members": 1293
+      },
+      {
+        "cluster": [
+          254,
+          253,
+          254
+        ],
+        "snappedHex": "#fdfdfd",
+        "atPixel": [
+          904,
+          944
+        ],
+        "members": 1069
+      },
+      {
+        "cluster": [
+          252,
+          168,
+          41
+        ],
+        "snappedHex": "#fda829",
+        "atPixel": [
+          1272,
+          1360
+        ],
+        "members": 673
+      },
+      {
+        "cluster": [
+          116,
+          38,
+          51
+        ],
+        "snappedHex": "#7f1e31",
+        "atPixel": [
+          584,
+          992
+        ],
+        "members": 130
+      }
+    ]
+  },
+  {
+    "file": "brand/LOGO REELIS PNG...png",
+    "bytes": 534730,
+    "container": "PNG",
+    "ihdr": {
+      "width": 2000,
+      "height": 2000,
+      "bitDepth": 8,
+      "colourType": 6,
+      "interlace": 0
+    },
+    "decoded": {
+      "w": 2000,
+      "h": 2000,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      3394644,
+      2477,
+      1673,
+      1401,
+      1189,
+      1636,
+      1586,
+      595394
+    ],
+    "pureBlackNonOpaque": 3391949,
+    "opaqueNearBlack": 0,
+    "hasAlphaChannel": true,
+    "palette": [
+      {
+        "cluster": [
+          249,
+          47,
+          109
+        ],
+        "snappedHex": "#f92f6d",
+        "atPixel": [
+          648,
+          856
+        ],
+        "members": 1882
+      },
+      {
+        "cluster": [
+          149,
+          39,
+          237
+        ],
+        "snappedHex": "#9528ed",
+        "atPixel": [
+          1360,
+          1064
+        ],
+        "members": 1587
+      },
+      {
+        "cluster": [
+          179,
+          38,
+          207
+        ],
+        "snappedHex": "#b326cf",
+        "atPixel": [
+          1136,
+          856
+        ],
+        "members": 1513
+      },
+      {
+        "cluster": [
+          233,
+          38,
+          136
+        ],
+        "snappedHex": "#e92688",
+        "atPixel": [
+          792,
+          872
+        ],
+        "members": 1361
+      },
+      {
+        "cluster": [
+          206,
+          35,
+          177
+        ],
+        "snappedHex": "#ce23b0",
+        "atPixel": [
+          976,
+          912
+        ],
+        "members": 1234
+      },
+      {
+        "cluster": [
+          254,
+          253,
+          253
+        ],
+        "snappedHex": "#fefdfd",
+        "atPixel": [
+          904,
+          952
+        ],
+        "members": 1069
+      },
+      {
+        "cluster": [
+          253,
+          167,
+          41
+        ],
+        "snappedHex": "#fda729",
+        "atPixel": [
+          1280,
+          1336
+        ],
+        "members": 674
+      }
+    ]
+  },
+  {
+    "file": "brand/LOGO REELIS PNG.png",
+    "bytes": 340188,
+    "container": "PNG",
+    "ihdr": {
+      "width": 2000,
+      "height": 2000,
+      "bitDepth": 8,
+      "colourType": 6,
+      "interlace": 0
+    },
+    "decoded": {
+      "w": 2000,
+      "h": 2000,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4000000
+    ],
+    "pureBlackNonOpaque": 0,
+    "opaqueNearBlack": 3392851,
+    "hasAlphaChannel": true,
+    "palette": [
+      {
+        "cluster": [
+          249,
+          48,
+          109
+        ],
+        "snappedHex": "#f9306d",
+        "atPixel": [
+          648,
+          864
+        ],
+        "members": 1936
+      },
+      {
+        "cluster": [
+          149,
+          40,
+          237
+        ],
+        "snappedHex": "#9529ed",
+        "atPixel": [
+          1328,
+          848
+        ],
+        "members": 1582
+      },
+      {
+        "cluster": [
+          179,
+          39,
+          208
+        ],
+        "snappedHex": "#b327cf",
+        "atPixel": [
+          1144,
+          864
+        ],
+        "members": 1474
+      },
+      {
+        "cluster": [
+          232,
+          39,
+          137
+        ],
+        "snappedHex": "#e82789",
+        "atPixel": [
+          824,
+          1096
+        ],
+        "members": 1331
+      },
+      {
+        "cluster": [
+          205,
+          36,
+          177
+        ],
+        "snappedHex": "#cd24b1",
+        "atPixel": [
+          984,
+          952
+        ],
+        "members": 1263
+      },
+      {
+        "cluster": [
+          254,
+          253,
+          254
+        ],
+        "snappedHex": "#fefdfe",
+        "atPixel": [
+          904,
+          944
+        ],
+        "members": 1069
+      },
+      {
+        "cluster": [
+          252,
+          168,
+          41
+        ],
+        "snappedHex": "#fca729",
+        "atPixel": [
+          1264,
+          1392
+        ],
+        "members": 673
+      },
+      {
+        "cluster": [
+          115,
+          38,
+          51
+        ],
+        "snappedHex": "#7f1e31",
+        "atPixel": [
+          584,
+          1024
+        ],
+        "members": 130
+      }
+    ]
+  },
+  {
+    "file": "reference/REELIS 1.jpg.jpeg",
+    "bytes": 99699,
+    "container": "JPEG",
+    "ihdr": null,
+    "decoded": {
+      "w": 1600,
+      "h": 900,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1440000
+    ],
+    "pureBlackNonOpaque": 0,
+    "opaqueNearBlack": 22207,
+    "hasAlphaChannel": false
+  },
+  {
+    "file": "reference/REELIS 2.jpg.jpeg",
+    "bytes": 102754,
+    "container": "JPEG",
+    "ihdr": null,
+    "decoded": {
+      "w": 1600,
+      "h": 900,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1440000
+    ],
+    "pureBlackNonOpaque": 0,
+    "opaqueNearBlack": 21134,
+    "hasAlphaChannel": false
+  },
+  {
+    "file": "reference/REELIS 3.jpg.jpeg",
+    "bytes": 96837,
+    "container": "JPEG",
+    "ihdr": null,
+    "decoded": {
+      "w": 1600,
+      "h": 900,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1440000
+    ],
+    "pureBlackNonOpaque": 0,
+    "opaqueNearBlack": 20158,
+    "hasAlphaChannel": false
+  },
+  {
+    "file": "reference/REELIS 4.jpg.jpeg",
+    "bytes": 101942,
+    "container": "JPEG",
+    "ihdr": null,
+    "decoded": {
+      "w": 1600,
+      "h": 900,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1440000
+    ],
+    "pureBlackNonOpaque": 0,
+    "opaqueNearBlack": 22563,
+    "hasAlphaChannel": false
+  },
+  {
+    "file": "reference/REELIS 5.jpg.jpeg",
+    "bytes": 103545,
+    "container": "JPEG",
+    "ihdr": null,
+    "decoded": {
+      "w": 1600,
+      "h": 900,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1440000
+    ],
+    "pureBlackNonOpaque": 0,
+    "opaqueNearBlack": 23104,
+    "hasAlphaChannel": false
+  },
+  {
+    "file": "reference/REELIS 6.jpg.jpeg",
+    "bytes": 96115,
+    "container": "JPEG",
+    "ihdr": null,
+    "decoded": {
+      "w": 1600,
+      "h": 900,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1440000
+    ],
+    "pureBlackNonOpaque": 0,
+    "opaqueNearBlack": 21873,
+    "hasAlphaChannel": false
+  },
+  {
+    "file": "reference/SAMPUL REELIS JPG.jpg.jpeg",
+    "bytes": 345749,
+    "container": "JPEG",
+    "ihdr": null,
+    "decoded": {
+      "w": 1500,
+      "h": 500,
+      "channels": 4
+    },
+    "alphaHistogram_8bins": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      750000
+    ],
+    "pureBlackNonOpaque": 0,
+    "opaqueNearBlack": 438959,
+    "hasAlphaChannel": false
+  }
+]
